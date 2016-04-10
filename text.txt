@@ -2,3 +2,4 @@ check
 changes from newbranch
 something new from newbranch
 more for newbranch
+merge test
